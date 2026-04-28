@@ -1,7 +1,7 @@
 # 💫 About Me:
-Ingeniera de Software en formación con una sólida trayectoria en administración de infraestructura crítica y resolución de incidentes Nivel 3. Mi enfoque profesional integra la gestión de identidades (IAM) y la administración de políticas de seguridad en entornos corporativos con el desarrollo de soluciones de automatización orientadas a garantizar la continuidad operativa.  
+Software Engineering student with a solid track record in critical infrastructure management and Level 3 incident resolution. My professional approach integrates identity management (IAM) and security policy administration in corporate environments with the development of automation solutions aimed at ensuring business continuity.
 
-Me especializo en optimizar la disponibilidad de los sistemas mediante la aplicación de buenas prácticas de desarrollo y la reducción de la carga operativa manual. Con experiencia técnica en ecosistemas Microsoft 365, redes y optimización de infraestructura, mi objetivo es escalar operaciones bajo la cultura SRE, transformando procesos tradicionales en arquitecturas resilientes, automatizadas y alineadas con estándares de cumplimiento.
+I specialize in optimizing system availability by applying best development practices and reducing manual operational workload. With technical experience in Microsoft 365 ecosystems, networking, and infrastructure optimization, my goal is to scale operations under the SRE culture, transforming traditional processes into resilient, automated architectures aligned with compliance standards.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabypuertor964) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandra.puerto@isora.com.co) 
@@ -14,6 +14,6 @@ Me especializo en optimizar la disponibilidad de los sistemas mediante la aplica
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gabypuertor964&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gabypuertor964&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=gabypuertor964&color=blue&style=flat-square)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
