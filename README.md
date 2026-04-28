@@ -1,5 +1,5 @@
 # 💫 About Me:
-ngeniera de Software en formación con una sólida trayectoria en administración de infraestructura crítica y resolución de incidentes Nivel 3. Mi enfoque profesional integra la gestión de identidades (IAM) y la administración de políticas de seguridad en entornos corporativos con el desarrollo de soluciones de automatización orientadas a garantizar la continuidad operativa.  
+Ingeniera de Software en formación con una sólida trayectoria en administración de infraestructura crítica y resolución de incidentes Nivel 3. Mi enfoque profesional integra la gestión de identidades (IAM) y la administración de políticas de seguridad en entornos corporativos con el desarrollo de soluciones de automatización orientadas a garantizar la continuidad operativa.  
 
 Me especializo en optimizar la disponibilidad de los sistemas mediante la aplicación de buenas prácticas de desarrollo y la reducción de la carga operativa manual. Con experiencia técnica en ecosistemas Microsoft 365, redes y optimización de infraestructura, mi objetivo es escalar operaciones bajo la cultura SRE, transformando procesos tradicionales en arquitecturas resilientes, automatizadas y alineadas con estándares de cumplimiento.
 
