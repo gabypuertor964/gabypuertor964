@@ -1,7 +1,11 @@
 # 💫 About Me:
-Software Engineering student with a proven track record in critical infrastructure management, IT asset lifecycle governance, and Level 3 incident resolution. My professional approach integrates identity and access management (IAM) and security policy administration in corporate environments with the development of custom automation solutions and a PHP-based microframework designed to standardize business logic and reduce manual operational workload.
+IT Infrastructure Engineer responsible for designing, implementing, and administering technology platforms that support business operations, ensuring secure, available, and resource-efficient services.
 
-I specialize in designing resilient, zero-trust infrastructure architectures — spanning Linux virtualization, Active Directory, and Cloudflare-based secure networking — while applying financial discipline (CAPEX/OPEX analysis, total cost of ownership) to technology investment decisions. My goal is to scale operations under SRE principles, transforming traditional processes into automated, compliant, and cost-efficient architectures.
+I have hands-on experience with on-premises infrastructure: enterprise services, networking, identity management, shared storage, collaboration, virtualization, high availability, and business continuity. I have designed and implemented solutions on Linux, Active Directory, Nextcloud, Docker, Cloudflare Zero Trust, and Cloudflare Tunnel, prioritizing interoperability, security, and the maximum use of available resources.
+
+On the development side, I work with PHP as my primary language, including the design of a custom microframework aligned with Clean Code and PSR standards that modernizes and standardizes the HTTP request lifecycle without breaking compatibility with legacy code.
+
+I complement my technical background with knowledge of IT asset management (ITAM): lifecycle, licensing, budget planning, and technology investment evaluation (CAPEX/OPEX), participating in the selection, procurement, and standardization of technologies aligned with business needs. My approach prioritizes total cost of ownership (TCO) over initial cost, allowing me to implement reliable platforms even in resource-constrained environments without compromising service quality.
 
 - 🏗️ **Infrastructure:** On-premises virtualization, Zero Trust networking, high availability & business continuity
 - 🔐 **Security & Identity:** IAM, Active Directory, security policy administration
